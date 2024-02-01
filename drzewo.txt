@@ -1,0 +1,5 @@
+
+0 wzrost > 190.0 1 2
+1 wyskok > 50.0 3 siatkowka
+2 zasieg > 3.2 koszykowka lekkoatletyka
+3 zasieg > 3.2 siatkowka koszykowka
